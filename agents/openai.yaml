@@ -1,0 +1,4 @@
+interface:
+  display_name: "Photo401"
+  short_description: "以一张实验室照片为底图，参照本人样貌与固定工位完成局部人物合成"
+  default_prompt: "使用 $photo401，将这张图片1作为底图，参考技能内的人物与工位照片，只在我的工位加入我本人，输出图片2。"
